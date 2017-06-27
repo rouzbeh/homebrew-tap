@@ -1,8 +1,8 @@
 class Modigliani < Formula
   desc "Modigliani is a stochastic simulator for neuroscientists."
   homepage "http://www.modigliani.co.uk"
-  url "https://github.com/rouzbeh/Modigliani/archive/2.0.11.tar.gz"
-  version "2.0.11"
+  url "https://github.com/rouzbeh/Modigliani/archive/v2.1.0.tar.gz"
+  version "2.1.0"
   sha256 "7b40e6ffc1f788331bb6ffb0e2569cc483775ddb55440cc4eded48f513e5425d"
 
   depends_on "boost" => :build
