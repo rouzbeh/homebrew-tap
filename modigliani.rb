@@ -3,7 +3,7 @@ class Modigliani < Formula
   homepage "http://www.modigliani.co.uk"
   url "https://github.com/rouzbeh/Modigliani/archive/v2.1.0.tar.gz"
   version "2.1.0"
-  sha255 "43eaf89bedeb1bd9682862e01f379aaca6216a986902171a5bc758ccc4781092"
+  sha256 "43eaf89bedeb1bd9682862e01f379aaca6216a986902171a5bc758ccc4781092"
 
   depends_on "boost" => :build
   depends_on "autoconf" => :build
